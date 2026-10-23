@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "AgriRob-SN: kinematic and dynamic model of a 6-DOF agricultural manipulator for Senegal"
+version: 1.0.0
+date-released: 2026-09-22
+license: MIT
+authors:
+  - family-names: "[Family name]"
+    given-names: "[Given name]"
+    affiliation: "[Affiliation]"
+repository-code: "https://github.com/<user>/agrirob-sn"
